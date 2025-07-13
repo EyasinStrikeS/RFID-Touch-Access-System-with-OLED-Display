@@ -26,6 +26,6 @@ This Arduino project uses an RFID module, a touch sensor, an OLED display, and R
 Install the following libraries via Arduino IDE:
 - `Adafruit SSD1306`
 - `Adafruit GFX`
-- `MFRC522`
+- `MFRC522 by Github`
 - `SPI`
 - `Wire`
