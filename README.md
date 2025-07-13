@@ -20,7 +20,7 @@ This Arduino project uses an RFID module, a touch sensor, an OLED display, and R
 - After 5 seconds, it resets to **"Touch to activate"**.
 
 ## 🛠️ Circuit Diagram
-*(Include a Fritzing wiring diagram or hand-drawn image if possible)*
+Will be updated later on.
 
 ## 🗂️ Libraries Required
 Install the following libraries via Arduino IDE:
