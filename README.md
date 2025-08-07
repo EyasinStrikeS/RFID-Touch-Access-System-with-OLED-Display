@@ -22,6 +22,9 @@ This Arduino project uses an RFID module, a touch sensor, an OLED display, and R
 ## 🛠️ Circuit Diagram
 Will be updated later on.
 
+## 🛠️ Demonstration Video (YouTube)
+https://youtu.be/BWlPYwrnUTQ
+
 ## 🗂️ Libraries Required
 Install the following libraries via Arduino IDE:
 - `Adafruit SSD1306`
